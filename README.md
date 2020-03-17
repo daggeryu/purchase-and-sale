@@ -4,7 +4,7 @@
 Tomcat8.5  
 登录用户默认账户admin密码admin
 已有功能：供应给管理,用户管理(spring-security)
-![1](https://github.com/daggeryu/purchase-and-sale/blob/master/images/1.jpg) 
-![2](https://github.com/daggeryu/purchase-and-sale/blob/master/images/2.jpg) 
-![3](https://github.com/daggeryu/purchase-and-sale/blob/master/images/3.jpg) 
-![4](https://github.com/daggeryu/purchase-and-sale/blob/master/images/4.jpg) 
+![1](https://github.com/daggeryu/purchase-and-sale/blob/master/images/1.png) 
+![2](https://github.com/daggeryu/purchase-and-sale/blob/master/images/2.png) 
+![3](https://github.com/daggeryu/purchase-and-sale/blob/master/images/3.png) 
+![4](https://github.com/daggeryu/purchase-and-sale/blob/master/images/4.png) 
