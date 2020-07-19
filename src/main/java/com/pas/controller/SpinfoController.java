@@ -92,5 +92,6 @@ public class SpinfoController {
         String id = request.getParameter("id");
         spinfoService.delgysname(id);
         return "redirect:findAllGys.do";
+        //wdwd
     }
 } 
