@@ -82,7 +82,7 @@ public class SpinfoController {
     public ModelAndView addGys() throws Exception {
         ModelAndView mv = new ModelAndView();
         List<Gysname> ps = spinfoService.findAllGys();
-        mv.addObject("gysList", ps);
+//        mv.addObject("gysList", ps);
         mv.setViewName("gysname-add");
         return mv;
     }
@@ -93,4 +93,4 @@ public class SpinfoController {
         spinfoService.delgysname(id);
         return "redirect:findAllGys.do";
     }
-}
+} 
